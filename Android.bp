@@ -21,7 +21,6 @@ java_library {
         "shared/src/main/java/**/*.java",
         "applier/src/main/java/**/*.java",
     ],
-    // archive-patcher should be compatible with all versions of Android
-    sdk_version: "4",
+    sdk_version: "core_current",
     java_version: "1.6",
 }
