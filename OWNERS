@@ -1,5 +1,1 @@
-hhb@google.com
-byi@google.com
-nfuller@google.com
-tobiast@google.com
-ccross@android.com
+include platform/system/core:/janitors/OWNERS
